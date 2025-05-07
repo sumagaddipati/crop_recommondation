@@ -91,11 +91,17 @@ Cross-Validation: Evaluates the model on different splits to ensure it generaliz
 ## Example of Model Evaluation:
 
 Initial Model Accuracy: 92.50%
+
 F1 Score: 0.91
+
 Classification Report:
+
               precision    recall  f1-score   support
+              
      class_0       0.93      0.94      0.94       200
+    
      class_1       0.91      0.90      0.90       180
+     
 ## Prediction Example
 ## Example Input:
 You can input the following sample values for soil prediction:
